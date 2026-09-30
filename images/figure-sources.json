@@ -1,0 +1,62 @@
+[
+  {
+    "asset": "model-embedding.svg",
+    "source": "ModelEmbedding-NeurIPS2026.pdf",
+    "page": 4,
+    "figure": "NeurIPS Figure 2 panels (a) and (b)",
+    "type": "Original embedded images, unchanged pixel dimensions and image bytes",
+    "pixel_dimensions": [
+      [
+        723,
+        870
+      ],
+      [
+        711,
+        830
+      ]
+    ]
+  },
+  {
+    "asset": "ditas.svg",
+    "source": "https://openaccess.thecvf.com/content/WACV2025/papers/Dong_DiTAS_Quantizing_Diffusion_Transformers_via_Enhanced_Activation_Smoothing_WACV_2025_paper.pdf",
+    "page": 2,
+    "figure": "WACV Figures 3 and 4",
+    "type": "Original embedded images, unchanged pixel dimensions and image bytes",
+    "pixel_dimensions": [
+      [
+        5942,
+        5700
+      ],
+      [
+        5961,
+        5708
+      ]
+    ]
+  },
+  {
+    "asset": "ad-l-jepa.svg",
+    "source": "https://arxiv.org/pdf/2501.04969v2",
+    "page": 3,
+    "figure": "Figure 2",
+    "type": "Original PDF vector paths; embedded images retained without downsampling",
+    "crop_box_points": [
+      54,
+      54,
+      558,
+      271
+    ]
+  },
+  {
+    "asset": "generation-refinement.svg",
+    "source": "https://aclanthology.org/2025.findings-emnlp.716.pdf",
+    "page": 2,
+    "figure": "Figure 1",
+    "type": "Original PDF vector paths; embedded images retained without downsampling",
+    "crop_box_points": [
+      90,
+      70,
+      269,
+      207
+    ]
+  }
+]
