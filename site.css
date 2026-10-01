@@ -48,3 +48,6 @@ footer a { font-size: inherit; }
   footer { text-align: center; }
 }
 @media (prefers-reduced-motion: reduce) { html { scroll-behavior: auto; } }
+
+.honors-list { margin: 0; padding-left: 20px; }
+.honors-list li { margin-bottom: 8px; }
