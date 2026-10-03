@@ -1,16 +1,17 @@
 # Zhenyuan Dong's personal website
 
+Visit **[Zhenyuan Dong — Purdue University](https://dzy122.github.io/)** for research interests, publications, academic service, teaching, and honors.
+
 Static academic website for Zhenyuan Dong, adapted from [Jon Barron's website](https://github.com/jonbarron/jonbarron.github.io). The original README welcomes cloning the code for personal use. The original `stylesheet.css` is retained; responsive layout is in `site.css`.
 
 ## Content
 
-The website contains exactly four sections, in order: News, Research Interests, Publications, and Teaching & Service. News uses dated milestones from the provided CV; Teaching & Service contains the supplied conference reviewer information. No teaching roles were supplied, so none are invented. Education, Research Experience, Honors & Awards, and Technical Skills do not appear as separate sections. The downloadable CV is the original complete PDF supplied by Zhenyuan Dong. Publication statuses and dates follow that CV. The memory-retrieval manuscript is omitted at the user’s request. Each of the four remaining publications displays its key figure extracted directly from the original paper PDF, with a link to the full-size image. The model embedding paper links to the supplied NeurIPS PDF.
+The website contains News, Research Interests, Publications, Teaching & Service, and Honors. News lists paper acceptance announcements and academic milestones. Teaching & Service includes academic reviewing and courses taught at Purdue University and New York University. Each publication displays a key figure extracted directly from its original paper PDF, with a link to the full-size image.
 
 ## Edit
 
 - Update text and links in `index.html`.
-- Replace `ZhenyuanDong-CV.pdf` when updating the CV.
-- The profile photo is the user-supplied `ZhenyuanDong.png`. Replace that file to update the portrait.
+- The profile photo is the user-supplied `ZhenyuanDong.jpg`. Replace that file to update the portrait.
 - Adjust layout in `site.css`; no build step or JavaScript is required.
 
 ## Preview
